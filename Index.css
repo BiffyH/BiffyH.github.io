@@ -1,13 +1,19 @@
+h1 {
+	background-image: url("Header_background")}
+}
+
  body {
 	font-family: 'Amatic SC', cursive;
 	background: #FDF5E6;
 	text-align: center;
-
 }
+
 ul {
 	border: 1px solid #FFFAFA;
 }
+
 li { 
 	display: inline;
 	padding: 0px 80px 0px 80px;
 }
+
