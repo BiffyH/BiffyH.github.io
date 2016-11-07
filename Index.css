@@ -15,5 +15,10 @@ ul {
 li { 
 	display: inline;
 	padding: 0px 80px 0px 80px;
+	font-size: 20px;
+	font-family: 'Amatic SC', cursive;
+}
+button {
+margin: 0px 20px 0px 20px;
 }
 
