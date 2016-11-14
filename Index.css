@@ -3,13 +3,17 @@ h1 {
 }
 
  body {
-	font-family: 'Amatic SC', cursive;
+	font-family: 'Open Sans Condensed', sans-serif;
 	background: #FDF5E6;
 	text-align: center;
 }
-
+h1 {
+	font-family: 'Amatic SC', cursive;
+	font-size: 40px;
+}
 ul {
 	border: 1px solid #FFFAFA;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 
 li { 
@@ -19,6 +23,15 @@ li {
 	font-family: 'Amatic SC', cursive;
 }
 button {
-margin: 0px 20px 0px 20px;
+	margin: 0px 5px 0px 5px;
 }
+p {
+	line-height: 40px;
+	font-size: 25px;
+}
+div p {
+	color: #5D6D7E;
+}
+div h2 {
 
+}
